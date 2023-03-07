@@ -31,6 +31,7 @@ int main() {
             // ...
             // ...
             ClearBackground(WHITE);
+            //DrawTextEx(Font???, "from roots to moons",10, 30, 5, VIOLET);
             DrawText("Death is my Name!", 10, 10, 30, PURPLE);
             DrawText("We are the same", 10, 35, 30, BLACK);
             DrawTexture(myTexture, 10, 100, WHITE);
